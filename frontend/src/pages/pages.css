@@ -1,0 +1,19 @@
+.height {
+    height: calc(100vh - 80px) !important
+}
+
+.height2 {
+    height: calc(100vh - 150px) !important;
+}
+
+.margin-top {
+    margin-top: 80px;
+}
+
+.button {
+    background-color: #E97451
+}
+
+.button:hover {
+    background-color: #e3502b
+}

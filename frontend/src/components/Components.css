@@ -1,0 +1,19 @@
+.nav-badge-bg {
+    background-color: #ff5757;
+}
+
+.active-link {
+    color: #E97451
+}
+
+.cursor-not-allowed {
+    cursor: not-allowed;
+}
+
+.button {
+    background-color: #E97451
+}
+
+.button:hover {
+    background-color: #e3502b
+}
